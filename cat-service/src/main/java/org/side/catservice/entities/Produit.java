@@ -23,5 +23,4 @@ private String designation;
 private double price;
 private int quantite;
 
-
 }
